@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+
+    <!-- Suggested Additions -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Default background color -->
+    <color name="colorSurface">#F5F5F5</color> <!-- Card, sheet, or elevated surfaces -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Text/icon on primary surfaces -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- Text/icon on accent-colored surfaces -->
+    <color name="colorOnBackground">#212121</color> <!-- Text on default backgrounds -->
+    <color name="colorOnSurface">#212121</color> <!-- Text on elevated surfaces -->
+    <color name="colorError">#D32F2F</color> <!-- Error states -->
+    <color name="bottom_nav_icon_color">#0288D1</color> <!-- Bottom navigation icon color -->
+    <color name="bottom_nav_text_color">#0288D1</color> <!-- Bottom navigation text color -->
+    <color name="bottom_nav_background">#F5F5F5</color> <!-- Bottom navigation background -->
+    <color name="colorDisabled">#BDBDBD</color> <!-- Disabled states -->
+    <color name="colorOutline">#BDBDBD</color> <!-- Borders and outlines -->
+    <color name="navigationBarColor">#0288D1</color> <!-- System navigation bar -->
+
+
+</resources>
